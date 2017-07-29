@@ -1,0 +1,43 @@
+2017-07-24 01:02:57 pid:2701 Workerman[http_test.php] start in DEBUG mode
+2017-07-24 01:05:42 pid:2704 Workerman[http_test.php] start in DEBUG mode
+2017-07-24 01:06:46 pid:2705 Workerman[http_test.php] start in DEBUG mode
+2017-07-24 01:09:52 pid:2705 Workerman[http_test.php] Stopping ...
+2017-07-24 01:09:52 pid:2705 Workerman[http_test.php] has been stopped
+2017-07-24 01:47:04 pid:2752 Workerman[ws_test.php] start in DEBUG mode
+2017-07-24 01:50:04 pid:2752 Workerman[ws_test.php] Stopping ...
+2017-07-24 01:50:04 pid:2752 Workerman[ws_test.php] has been stopped
+2017-07-24 01:50:07 pid:2759 Workerman[ws_test.php] start in DEBUG mode
+2017-07-24 02:05:19 pid:2975 Workerman[ws_test.php] start in DEBUG mode
+2017-07-24 02:13:50 pid:2975 Workerman[ws_test.php] Stopping ...
+2017-07-24 02:13:50 pid:2975 Workerman[ws_test.php] has been stopped
+2017-07-24 03:16:15 pid:3082 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:17:34 pid:3083 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:19:40 pid:3083 Workerman[worker_test.php] Stopping ...
+2017-07-24 03:19:40 pid:3083 Workerman[worker_test.php] has been stopped
+2017-07-24 03:19:43 pid:3087 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:22:42 pid:3087 Workerman[worker_test.php] Stopping ...
+2017-07-24 03:22:42 pid:3087 Workerman[worker_test.php] has been stopped
+2017-07-24 03:22:44 pid:3093 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:23:03 pid:3093 Workerman[worker_test.php] Stopping ...
+2017-07-24 03:23:03 pid:3093 Workerman[worker_test.php] has been stopped
+2017-07-24 03:23:12 pid:3098 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:24:54 pid:3098 Workerman[worker_test.php] Stopping ...
+2017-07-24 03:24:54 pid:3098 Workerman[worker_test.php] has been stopped
+2017-07-24 03:25:06 pid:3103 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:26:39 pid:3103 Workerman[worker_test.php] Stopping ...
+2017-07-24 03:26:39 pid:3103 Workerman[worker_test.php] has been stopped
+2017-07-24 03:27:11 pid:3107 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:27:44 pid:3107 Workerman[worker_test.php] Stopping ...
+2017-07-24 03:27:44 pid:3107 Workerman[worker_test.php] has been stopped
+2017-07-24 03:27:45 pid:3111 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:32:43 pid:3111 Workerman[worker_test.php] Stopping ...
+2017-07-24 03:32:43 pid:3111 Workerman[worker_test.php] has been stopped
+2017-07-24 03:32:44 pid:3116 Workerman[worker_test.php] start in DEBUG mode
+2017-07-24 03:49:09 pid:3116 Workerman[worker_test.php] Stopping ...
+2017-07-24 03:49:09 pid:3116 Workerman[worker_test.php] has been stopped
+2017-07-24 04:14:01 pid:3243 Workerman[GlobalData_server_test.php] start in DEBUG mode
+2017-07-24 04:28:46 pid:3243 Workerman[GlobalData_server_test.php] Stopping ...
+2017-07-24 04:28:46 pid:3243 Workerman[GlobalData_server_test.php] has been stopped
+2017-07-26 05:53:15 pid:2389 Workerman[http_test.php] start in DEBUG mode
+2017-07-26 05:54:16 pid:2389 Workerman[http_test.php] Stopping ...
+2017-07-26 05:54:16 pid:2389 Workerman[http_test.php] has been stopped
