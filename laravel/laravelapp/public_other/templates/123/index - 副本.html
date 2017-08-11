@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=Edge">
+    <meta name="viewport" content="width=750, user-scalable=no, target-densitydpi=device-dpi">
+    <title>Title</title>
+    <script src=""></script>
+    <link rel="stylesheet" href="<?php echo base_url() ?>Code/public/CSS/comm.min.css">
+    <link rel="stylesheet" href="<?php echo base_url() ?>Code/public/CSS/reuse.css">
+</head>
+<body>
+<div class="header-small-blue">
+    <div class="header-logo">
+        <img src="<?php echo base_url() ?>Code/public/image/product/partner/logo.png" alt="">
+    </div>
+    <div class="header-menu-icon"></div>
+    <div class="header-close-icon hide"></div>
+    <div class="pull-down">
+        <ul class="pull-down-list">
+            <li><a href="http://m.aldwx.com/index.html">首页</a></li>
+            <li><a href="http://m.aldwx.com/character.html">产品特性</a></li>
+            <li><a href="http://m.aldwx.com/resource.html">行业资源库</a></li>
+        </ul>
+    </div>
+</div>
+<form class="login-form" action="" id="reg-first-form">
+    <h2 class="title">创建你的账户</h2>
+    <label class="info-input">
+        <i class="icon icon-tel"></i>
+        <input type="tel" placeholder="手机号" name="tel" autocomplete="off" maxlength="11" id="reg-tel">
+    </label>
+    <label class="info-input code">
+        <i class="icon icon-code"></i>
+        <input type="tel" placeholder="验证码" maxlength="6" name="code" autocomplete="off" id="reg-code">
+        <button class="info-btn-code" disabled="disabled" id="info-btn-code">获取验证码</button>
+    </label>
+
+    <label class="info-input">
+        <i class="icon icon-password"></i>
+        <input type="password" placeholder="密码" name="password" autocomplete="off" id="reg-password">
+    </label>
+    <p class="reg-hint"></p>
+    <button class="form-submit-sure m-t-xs reg-first-submit" type="submit">下一步</button>
+    <div class="form-other">
+        <a href="http://m.aldwx.com/mobile/login">已有账号? 请<em class="href">登录</em></a>
+        <label class="checkbox circle">
+            <input type="checkbox" name="">
+            <ins class="checkbox-icon"></ins>
+            <em class="text">注册即代表同意隐私条款</em>
+        </label>
+    </div>
+</form>
+<form class="login-form hide" action="" id="reg-second-form">
+    <h2 class="title">创建你的账户</h2>
+    <label class="info-input">
+        <i class="icon icon-user"></i>
+        <input type="text" placeholder="姓名" name="username" autocomplete="off" id="reg-username">
+    </label>
+    <label class="info-input">
+        <i class="icon icon-email"></i>
+        <input type="email" placeholder="邮箱" name="email" autocomplete="off" id="reg-email">
+    </label>
+    <label class="info-input">
+        <i class="icon icon-company"></i>
+        <input type="name" placeholder="公司名称" name="name" autocomplete="off" id="company-name">
+    </label>
+    <p class="slide-over">跳过</p>
+    <button class="form-submit-sure m-t-xs" type="submit">完成</button>
+    <div class="form-other">
+        <a href="./login.html">已有账号? 请<em class="href">登录</em></a>
+        <label class="checkbox circle">
+            <input type="checkbox" name="">
+            <ins class="checkbox-icon"></ins>
+            <em class="text">注册即代表同意隐私条款</em>
+        </label>
+    </div>
+</form>
+<script src="<?php echo base_url() ?>Code/public/js/jquery-3.1.1.min.js"></script>
+<script src="<?php echo base_url() ?>Code/public/js/reuse.js"></script>
+<script src="<?php echo base_url() ?>Code/public/js/registerForPhone.js"></script>
+</body>
+</html>

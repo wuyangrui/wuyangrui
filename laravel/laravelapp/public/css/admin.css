@@ -1,0 +1,7 @@
+body {
+	background-image: url(/img/admin/3.jpg);
+    background-size: cover;
+    background-color: rgba(0,0,0,0.1);
+    /*color: #40E0D0;*/
+    background-attachment:fixed;
+}

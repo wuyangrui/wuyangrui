@@ -15,8 +15,16 @@ class SomeController extends Controller
     public function index()
     {
         //
-        copy(public_path().'/img/11.gif',public_path().'/img2/12.gif');
-        return  view('some.index');
+         // echo env('APP_DEBUG', false); 
+         // echo \App::environment();
+         // if(\App::environment('local')){
+         //    echo 'local';
+         // }else{
+         //    echo 'no';
+         // }
+
+        echo  config('app.name'); 
+         //return  view('some.index');
 
     }
 
