@@ -13,6 +13,8 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
+Route::middleware('auth:api')->any('/user', function (Request $request) {
+    // return $request->user();
+    \Log::info('api');
+    var_dump($request->input('pic'));
 });
